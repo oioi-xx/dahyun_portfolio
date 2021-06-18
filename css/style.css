@@ -341,7 +341,7 @@ section{padding: 0 20px; box-sizing: border-box}
 }
 
 
-@media screen and (max-width:411px) {
+@media screen and (max-width:450px) {
     #section1 h1{font-size: 70px;color:#222; text-align: left; max-width: 100%; font-family:"Orelo-standard";}
     nav ul li{margin-left: 10px;}
      #progress,#progress1,#progress2,#progress3,#progress4,#progress5,#progress6,#progress7,#progress8{margin: 10px;width: 70px;height: 70px; position: relative}
